@@ -1,0 +1,42 @@
+.ominous {
+    text-align: center;
+    color: red;
+}
+body {
+    background-color: lightblue;
+}
+/* to make a comment */
+
+h1 {
+    color: blue;
+    text-align: center;
+}
+h2 {
+    color: blue;
+    text-align: center;
+}
+h3 {
+    color:black;
+    text-align: center;
+}
+p {
+    font-family: verdana;
+    font-size: 15px;
+    margin: 10px 15px 10px 8px;
+    padding:10px 5px 15px 20px;
+}
+figure{
+    text-align: center;
+    color: blue
+}
+.strike{
+    color: red;
+    font-weight: bolder;
+}
+ol {
+    font-family: cursive;
+}
+#emphasize{
+    font-style: italic;
+    color:blue;
+}
